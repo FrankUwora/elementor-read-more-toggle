@@ -1,0 +1,16 @@
+.read-toggle-link {
+    color: #0073e6;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: underline;
+  }
+  
+  .read-toggle-link:hover {
+    text-decoration: none;
+  }
+  
+  .more-text {
+    margin-top: 10px;
+  }
+  
